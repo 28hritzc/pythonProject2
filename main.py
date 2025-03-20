@@ -51,6 +51,7 @@ else:
     screen.bgcolor('darkkhaki')
 
 #working idea
+#cleaner extra screen
 t.clear()
 t.penup()
 t.goto(0, 0)
